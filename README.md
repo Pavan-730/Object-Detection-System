@@ -1,2 +1,2 @@
-# Object-Detection-System
-object detection model capable of identifying and locating multiple objects within an image or video. Utilize a pre-trained model such as YOLO (You Only Look Once) or Faster R-CNN, and customize it to detect specific objects of interest.
+## Yolo Version 3 Object Detection
+#### A real-time object detection application using YOLOv3 and a custom dataset. Detected objects are integrated with bounding boxes displayed on the screen.
